@@ -1,0 +1,1 @@
+# ShogiTraining_Web
