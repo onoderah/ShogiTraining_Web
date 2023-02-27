@@ -1,7 +1,7 @@
 <script setup lang="ts">
-import { RouterView } from 'vue-router'
+import Board from '@/components/Board.vue'
 </script>
 
 <template>
-  <RouterView />
+  <Board />
 </template>

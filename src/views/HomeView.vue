@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import TheWelcome from '../components/TheWelcome.vue'
+import BoardCoordinate from '../components/BoardCoordinate.vue'
 </script>
 
 <template>
   <main>
-    <TheWelcome />
+    <BoardCoordinate />
   </main>
 </template>
